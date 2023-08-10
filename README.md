@@ -9,7 +9,7 @@
 
 ## Running as a background process
 
-Create a service:
+Create a Scheduled Task (see: <https://learn.microsoft.com/en-us/windows/win32/taskschd/using-the-task-scheduler>):
 
 * Action: **Start a program**
 * Program/script: `powershell.exe`
